@@ -1,6 +1,6 @@
 # MiraiMCTools
-在QQ上查询Minecraft服务器信息
-
+在QQ上查询Minecraft服务器信息  
+确保您具备权限后使用 `/serverinfo` 即可查询信息。
 # Installation
 在`Releases`处下载JAR文件，并放置于`plugins`文件夹内。
 
